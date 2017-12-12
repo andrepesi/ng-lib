@@ -1,6 +1,6 @@
 {
   "name": "@andrepesi/ng-lib",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Gerador de template para bibliotecas Angular 4",
   "main": "index.js",
   "scripts": {
