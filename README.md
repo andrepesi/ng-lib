@@ -83,10 +83,10 @@ A biblioteca criada possui inicialmente esses arquivos em `src/`
   </col>
   <tr>
     <th>
-      File
+      Arquivo
     </th>
     <th>
-      Purpose
+      Função do arquivo
     </th>
   </tr>
   <tr>
